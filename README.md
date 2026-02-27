@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello, I'm Vitor Queiroz Nunes
 
-<!--
-**vitorQN/vitorQN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer passionate about building scalable and efficient applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Fullstack Developer
+- ☕ Backend: Java & Spring Framework
+- 🌐 Frontend: JavaScript
+- 🎯 Focused on clean code, performance, and scalable architectures
+- 📚 Always learning and improving my skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+
+### Frontend
+- JavaScript
+- HTML5
+- CSS3
+
+### Tools & Others
+- Git & GitHub
+- Maven
+- SQL Databases
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **vitor.qn2004@gmail.com**
+- 💼 LinkedIn: [Vitor Queiroz Nunes](https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/)
+
