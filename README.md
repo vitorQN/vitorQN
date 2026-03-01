@@ -51,7 +51,9 @@
 ## 📫 Connect With Me
 
 📧 Email: **vitor.qn2004@gmail.com**  
-💼 LinkedIn: [Vitor Queiroz Nunes](https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/)
+💼 LinkedIn: [Vitor Queiroz Nunes](https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/) <br/>
+📰 Portfolio: [Vitor Queiroz Nunes](https://www.linkedin.com/in/vitor-queiroz-nunes-18319b278/)
+
 
 ---
 
