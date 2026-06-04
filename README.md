@@ -34,6 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostMan](https://img.shields.io/badge/PostMan-E34F26?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=white)
+![Vitr](https://img.shields.io/badge/Vite-%2320232a?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
